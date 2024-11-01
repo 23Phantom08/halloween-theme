@@ -1,7 +1,7 @@
-#Halloween Theme
+# Halloween Theme
 
 
-#Preparation
+## Preparation
 
 Make sure that under the configuration.yaml file you have the following:
 
@@ -14,7 +14,7 @@ Within the Home Assistant Config folder, create a new folder named themes
 Restart Home assistant to apply the changes.
 
 
-###Installation
+## Installation
 
 Within the Home assistant themes folder, create a file named halloween.yaml
 
