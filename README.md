@@ -2,13 +2,13 @@ Halloween Theme
 
 #Installation
 
-##Preparation
+***Preparation
 
 Make sure that under the configuration.yaml file you have the following:
 
 ```
 frontend:
-  themes: !include_dir_merge_named themes/
+  themes: !include_dir_merge_named themes
 ```
 
 Within the Home Assistant Config folder, create a new folder named themes
