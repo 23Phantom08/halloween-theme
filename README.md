@@ -18,10 +18,10 @@ If you are already prepared, please continue with the installation.
 
 ## Installation
 
-Within the Home assistant themes folder, create a file named halloween.yaml
+Within the Home assistant themes folder, create a file named "halloween.yaml".
 
 In this GitHub repo, go into the themes folder, open the halloween-code file and copy the contents
-Paste the contents in the halloween.yaml file created under your Home Assistant themes folder.
+Paste the contents in the "halloween.yaml" file created under your Home Assistant themes folder.
 
 Download the image kuerbis.jpg and upload it to the "www" config folder.
 
