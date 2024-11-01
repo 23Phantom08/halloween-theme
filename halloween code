@@ -1,4 +1,3 @@
-```
 ---
 #
 # Halloween Theme
@@ -88,4 +87,3 @@ Halloween:
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
   codemirror-property: var(--accent-color)
-  ```
