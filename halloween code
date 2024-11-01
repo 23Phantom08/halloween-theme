@@ -4,7 +4,7 @@
 #
 Halloween:
   # Global
-  background-image: 'center / cover no-repeat fixed url("/local/kuerbis.jpg")'
+  background-image: 'center / cover no-repeat fixed url("/local/kuerbis.jpeg")'
   lovelace-background: var(--background-image)
   dark-primary-color: "#7a4901"
   light-primary-color: "#ff8f45"
